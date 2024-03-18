@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shen</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Game Developer</h3>
 <h4 align="center">Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, What's in it for me?</h4>
 <h5 align="right">"Brian Tracy"</h5>
